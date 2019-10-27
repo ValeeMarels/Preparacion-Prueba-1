@@ -1,3 +1,5 @@
+#Cuantos numeros perfectos hay en un intervalo de numeros#
+
 def perfecto (n):
     suma = 0
     for i in range (1, n):
