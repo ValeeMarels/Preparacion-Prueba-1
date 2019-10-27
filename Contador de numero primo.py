@@ -1,3 +1,5 @@
+#Cuantos numeros primos hay en un intervalo de numeros#
+
 def primo (n):
     contador = 0
     for i in range (1, n+1):
