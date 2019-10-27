@@ -1,3 +1,5 @@
+#Cuantas vocales y cuantas consonantes hay en un texto#
+
 Texto = (input("Ingrese texto: "))
 
 contador_vocales= 0
